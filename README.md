@@ -21,7 +21,7 @@ python3 shodan_ai_stable.py "servidores apache en chile"
 El sistema nunca imprime claves, no las envía a terceros y las almacena sólo si el usuario lo autoriza.
 
 ## Autor
-**@dm20911 (SombreroBlancoCiberseguridad)** + ChatGPT AI CoPilot
+**@dm20911 (SombreroBlancoCiberseguridad)** 
 
 
 ## Badges

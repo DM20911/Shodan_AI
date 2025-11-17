@@ -1,0 +1,1 @@
+python3 shodan_ai_stable.py "mikrotik vulnerables en chile con puerto 8291"
